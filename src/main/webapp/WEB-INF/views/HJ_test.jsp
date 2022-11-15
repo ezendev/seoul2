@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h2>Test file -HJ</h2>
+	<!-- test -->
 </body>
 </html>
